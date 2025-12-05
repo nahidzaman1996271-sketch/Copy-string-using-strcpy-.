@@ -1,0 +1,1 @@
+# Copy-string-using-strcpy-.
